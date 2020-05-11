@@ -1,6 +1,10 @@
 DONE
-space(grass, lines, goal)
+space
+   grass
+   lines
+   goals
 ball display 
+ball move
 ____________________
 TODO 
 touch between players and ball
