@@ -1,0 +1,12 @@
+DONE
+space(grass, lines, goal)
+ball display 
+____________________
+TODO 
+touch between players and ball
+repair ball gravity
+create both players
+   move them
+   do their gravity
+   interact with other items
+decorate with pict.
